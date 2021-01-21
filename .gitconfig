@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Julius Dockwarder
+	email = hello@julius.dev
+[pull]
+	rebase = false
